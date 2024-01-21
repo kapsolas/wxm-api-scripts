@@ -8,7 +8,7 @@ Python of course.  [Python 3](https://www.python.org/downloads/) is required to 
 
 Additionally, use pip (Python Package Manager that should come with Python) to install the following Python libraries:
 ``` bash
-pip install requests json
+pip install requests json pytz mysql
 ```
 
 ## Instructions
